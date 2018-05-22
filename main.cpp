@@ -7,7 +7,7 @@ USING_NS_CC;
 int WINAPI _tWinMain(HINSTANCE hInstance,
                        HINSTANCE hPrevInstance,
                        LPTSTR    lpCmdLine,
-                       int       nCmdShow)
+                       int       nCmdShow)//sdfsd
 {
     UNREFERENCED_PARAMETER(hPrevInstance);
     UNREFERENCED_PARAMETER(lpCmdLine);
